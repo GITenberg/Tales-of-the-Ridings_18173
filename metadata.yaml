@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '1062'
     url: http://www.gutenberg.org/2009/agents/1062
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18173#Tales-of-the-Ridings
 gutenberg_issued: '2006-04-14'
 gutenberg_type: Text
 identifiers:
